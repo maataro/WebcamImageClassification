@@ -1,3 +1,8 @@
+// Daniel Shiffman
+// http://youtube.com/thecodingtrain
+
+// Webcam Image Classification with ml5
+
 let label = "";
 //let confidence = "";
 let video;
